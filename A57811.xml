@@ -1,0 +1,244 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account from the City of Chester, of a barbarous persecution inflicted upon one of the King's peaceable subjects, commonly called a Quaker. Only for his lamenting the great sin of pride, and calling the people to repentance.</title>
+            <author>Rudd, Thomas, d. 1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57811</idno>
+            <idno type="STC">Wing R2171</idno>
+            <idno type="STC">ESTC R218477</idno>
+            <idno type="EEBO-CITATION">99830065</idno>
+            <idno type="PROQUEST">99830065</idno>
+            <idno type="VID">34514</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57811)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34514)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2017:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account from the City of Chester, of a barbarous persecution inflicted upon one of the King's peaceable subjects, commonly called a Quaker. Only for his lamenting the great sin of pride, and calling the people to repentance.</title>
+                  <author>Rudd, Thomas, d. 1719.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by T. Sowle, in White-Hart-Court in Gracious-street, and at the Bible in Leaden-Hall-street, near the Market,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Postscript signed Thomas Rudd.</note>
+                  <note>Includes on pg. 2: The King's proclamation.</note>
+                  <note>Caption title on pg. 3: An account from the City of Chester, of a barbarous persecution, &amp;c.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Persecution --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34514:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT FROM THE City of Cheſter, OF <hi>A Barbarous Perſecution,</hi> INFLICTED Upon one of the King's Peaceable Subjects, commonly called a <hi>Q<g ref="char:V">Ʋ</g>AKER.</hi> ONLY For his Lamenting the great Sin of Pride, and Calling the People to Repentance.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in
+<hi>Gracious-ſtreet,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-ſtreet,</hi> near the Market, 1700.</p>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:34514:2"/>
+            <head>The King's Proclamation.</head>
+            <p>WE do hereby ſtrictly Charge and Command all our Judges, Mayors, Sheriffs, Juſtices of Peace, and all other our Officers and Miniſters, both Eccleſiaſtical and Civil, and other our Subjects, whom it may concern, to be very Vigilant and Strict in the Diſcovery, and the Effectual Proſecution and Puniſhment of all Perſons, who ſhall be guilty of Exceſſive Drinking, Blaſphemy, and Pro<g ref="char:EOLhyphen"/>fane Swearing and Curſing, Lewdneſs, Profanation of the Lord's Day, or other Diſſolute or Diſorderly Practices, as they will anſwer it to Almighty God, and upon pain of our Higheſt Diſpleaſure.</p>
+            <p>Note, <hi>The Proſecution and Puniſhment is to be of Perſons Guilty of the aforeſaid Evils, and not for La<g ref="char:EOLhyphen"/>menting Pride, and Calling People to Repent of them, that God might not be offended, the Law broke, the King diſobeyed, nor the Juſtices troubled.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:34514:2"/>
+            <head>
+               <hi>An</hi> Account <hi>from the City of</hi> Cheſter, OF A Barbarous Perſecution,
+<hi>&amp;c.</hi>
+            </head>
+            <p>IT's well ſaid, in the Account of the <hi>Reformation of Manners,</hi> pub<g ref="char:EOLhyphen"/>liſhed with the Approbation of <hi>Twenty Nine Lords, Nine Biſhops,</hi> and <hi>Seven Judges,</hi> p. 160, 161.</p>
+            <q>
+               <p>When Religion is deſpiſed, and Virtue is loſt, in a Nation—how eaſie a Prey will it prove to its Neighbours. —And a juſt God rewards Righteous Nations with Proſperity, and executes Juſtice upon thoſe that are Wicked.—</p>
+               <p>We are acquainted, that before God deſtroyed the Old World,<note place="margin">P. 102.</note>
+                  <hi>he ſaw the Wickedneſs of Men was great upon the Earth,</hi>—and their Sin is given as the Reaſon of their Deſtruction.</p>
+               <p>And the <hi>Impiety</hi> of the <hi>Jews,</hi> that have for ſo many Hundred Years been a Deſpiſed and Vagabond People. And doth not Hiſtory tell us, That as the Pride and Voluptuouſneſs of the <hi>Babylonians,</hi>
+                  <note place="margin">P. 103.</note> ſo the Lewdneſs of the <hi>Perſians,</hi> and Luxury of the <hi>Greeks,</hi> ſeemed (with their
+<hi>other ſins</hi>) to be the Remarkable Cauſes of the Ruine of thoſe <hi>Empires.</hi> And the <hi>Romans,</hi>
+                  <note place="margin">P. 104.</note> —became ſo very Degenerate and De<g ref="char:EOLhyphen"/>bauched, before the Devaſtations and Ruine of their <hi>Empire,</hi> by the <hi>Goths, Vandals</hi> and <hi>Huns;</hi> that gave occaſion to a Father to cry out, <hi>That the Name of Chriſt became a Scorn, and the Chriſtian Religion was Reproached by the Lives of Chriſtians.</hi> — And,</p>
+               <p>If a Viſible Contempt of the ſincere <hi>Practice</hi> of <hi>Religion,</hi>
+                  <note place="margin">P. 107.</note> and a bare-faced, inſolent and unreſtrained Wickedneſs,—and a deep In<g ref="char:EOLhyphen"/>ſenſibility, and imminent Danger of Judgment, are ſad Indications of Guilt; it cannot, I think, be denied, but that this was too near the Diſmal Caſe of <hi>England.</hi> — 'And nothing, I think, can be reaſonably ſuppoſed ſufficient to remove our Guilt, than ſome con<g ref="char:EOLhyphen"/>ſiderable and remarkable Reformation; and perhaps carried through Ranks and Orders of Men, through all parts of the Kingdom.</p>
+               <p>Having thus endeavoured to prove the <hi>Common Obligation</hi> which lies upon All Men, as
+<hi>Chriſtians,</hi> and as Members of the Community,<note place="margin">P. 110.</note> to uſe their ſincere Endeavours for a General and National Refor<g ref="char:EOLhyphen"/>mation, and the Special Obligations of
+<hi>Governours</hi> and <hi>Miniſters,</hi> of <hi>Subordinate Magiſtrates</hi> and
+<hi>Inferiour Officers,</hi> from either the Nature of their Office and Truſt, or their expreſs Oaths to this Purpoſe.</p> 
+            </q>
+            <pb n="4" facs="tcp:34514:3"/>
+            <p>As alſo, with Regard to the Parliament's Addreſs, the King's Pro<g ref="char:EOLhyphen"/>clamation, and the Queen's Letter, formerly mentioned in the ſaid <hi>Thomas Rudd</hi>'s Caſe.</p>
+            <p>I ſhall proceed to give a ſhort Account, how the Magiſtrates of the City of
+<hi>Cheſter,</hi> by account from thence, have anſwer'd what's above briefly hinted.</p>
+            <p>The ſaid <hi>Thomas Rudd</hi> is by Trade a Miller, and his Habitation near <hi>Settle</hi> in
+<hi>Yorkſhire,</hi> and one of the King's Peaceable Subjects, cal<g ref="char:EOLhyphen"/>led in ſcorn a
+<hi>Quaker,</hi> of a Sober Life and Chriſtian Converſation; and, by his Eſtate and Trade, is ſufficiently able to maintain his Fa<g ref="char:EOLhyphen"/>mily, and to Render to <hi>Caeſar,</hi> and all Men, their due, and pays Lot and Scot in the Pariſh wherein he lives; and therefore cannot juſtly, nor in the Eye of the Law, be eſteemed a Vagrant Perſon, nor ought to ſuffer as ſuch.</p>
+            <p>But this honeſt Conſcientious Man, having a Concern upon his Spirit, that Vice and Wickedneſs, Pride, Drunkenneſs, Immorality, and all Profaneſs, might be abandoned by all his Country-Men of this Nation; being the Duty of all that profeſs <hi>Chriſtianity,</hi> and pre<g ref="char:EOLhyphen"/>tend to a <hi>Reformation,</hi> and Sobriety, the Fear of God, a Chriſtian Life, and an Humble Walking with God, through the teaching and aſſiſtance of his Grace and good Spirit, and greatly deſires all might come thereinto, wherein they might enjoy God's Bleſſings, and truly Pray to Him, to avert thoſe ſevere Judgments, that (as is before hinted) it hath been obſervable, the Lord hath frequently brought upon Peo<g ref="char:EOLhyphen"/>ple and Nations, that have lived in
+<hi>Pride</hi> and <hi>Impiety;</hi> and therefore on the <hi>23d</hi> of the <hi>3d Month,</hi>
+1700. he, the ſaid <hi>Thomas Rudd,</hi> did go about in the Streets of the City of
+<hi>Cheſter,</hi> and Exhorted the People to <hi>fear God,</hi> and <hi>depart from Evil;</hi> which, notwithſtanding it is the Duty and Intereſt of all People, that would have God's Bleſſing here, and Live for evermore, to <hi>depart from Evil,</hi> and <hi>do Good,</hi> and
+<hi>fear God;</hi> yet he was put in the Stocks near two hours, and then taken out; And he again Exhorting the People, when let out, in like manner was committed the ſame day to Priſon, by
+<hi>Henry Lloyd</hi> Alderman and Juſtice of the Peace in <hi>Cheſter,</hi> by Trade a Clothier, there remained until the <hi>6th</hi> of the <hi>5th Month</hi> following, called
+<hi>July,</hi> 1700.</p>
+            <p>And on the <hi>7th</hi> of the <hi>5th Month,</hi> he was Concerned again to go into the Streets of the ſaid City of <hi>Cheſter,</hi> and to their <hi>Cathedral,</hi> with this Lamentation:
+<hi>How doth Pride abound? People, how doth Pride abound? For all their Teachers teaching, how doth Pride abound? A Fore-runner of De<g ref="char:EOLhyphen"/>ſtruction, how does it abound:</hi> Where the Biſhop, and
+<hi>William Bennet,</hi> Mayor of that City, by Trade a Shoemaker, order'd him to Priſon
+<pb n="5" facs="tcp:34514:3"/>again, and thither in a Rude and Violent manner was he halled, and cloſe lock'd up in a back Room, to prevent him from ſpeaking to the People out of the Priſon; as if it was a Crime to Lament Pride, and Call to Repentance. But when let out, he went again into the Streets, and at the High Croſs, near that called <hi>St. Peter</hi>'s
+<hi>Church;</hi> then they took him again, and had him to the Mayor's Court at
+<hi>Pendhouſe;</hi> and after Threatning him, the Mayor, Prieſt, and Con<g ref="char:EOLhyphen"/>ſtable, Signed a Warrant, that order'd himto be Whipped as a Vagrant, and to ſend him from Conſtable to Conſtable towards the place of his Birth.</p>
+            <p>And the ſaid Conſtable did ſtrip him, and rent his Shirt; and in a moſt Cruel, Barbarous, Tyrannical Manner, without Mercy, did they whip him on his Naked Body, with a Whip of ſtrong Cord, and many knots in it; and after they had Whipped him for a con<g ref="char:EOLhyphen"/>ſiderable time, they deſiſted, and then called to the Mayor for freſh Orders, which he readily granted, and then they whipped him until his Fleſh was bruiſed like a Jelly;<note n="*" place="margin">
+                  <hi>Note,</hi> Puniſhment ſhould not exceed the Offence.</note> ſo that it may be well ſaid, <hi>The tender Mercies of the Wicked are Cruelty.</hi>
+            </p>
+            <p>Yet this poor Innocent Man neither moved nor ſhrunk at all; and when they halled him away, he continued in his Innocent Teſti<g ref="char:EOLhyphen"/>mony, againſt their ungodly and wicked doings, in great Love, Life and Zeal; the Lord carrying him through, and by his Power bore him up over all their Cruelties.</p>
+            <p>And it is recommended to the Serious and Chriſtian Conſideration of all that ſhall Read this, whether theſe Cruel, Illegal and Uncha<g ref="char:EOLhyphen"/>ritable Proceedings, do not give juſt occaſion for the Name of Chriſt to become a Scorn, the Chriſtian Religion to be Reproached; and whether it doth not tend greatly to demonſtrate, That the Profeſſors thereof are Degenerated and Debauched, and to bring Ruine upon the Nation, and a Viſible Contempt of the ſincere Practice of Religi<g ref="char:EOLhyphen"/>on; and is it not a bare-faced Inſolency in theſe Magiſtrates, and Wickedneſs that ought to be reſtrained, proceeding from a deep Inſenſibility, thus to do? And may not this tend to bring us under imminent Danger of Judgment, and be an Indication of Guilt? And can this be denied to be too near the Diſmal Caſe of <hi>England?</hi> And if nothing can be reaſonably ſuppoſed ſufficient to Remove our Guilt, as is before ſaid, <hi>than ſome Conſiderable and Remarkable Refor<g ref="char:EOLhyphen"/>mation, through all Ranks and Orders of Men, in all parts of the Kingdom,</hi> Ought not theſe things to be Addreſſed and Amended? Conſidering it was
+<hi>Impiety, Pride, Voluptuouſneſs, Lewdneſs</hi> and <hi>Luxury,</hi> with other Sins, that was the Ruine of the Old World, the <hi>Jews, Babylonians,
+<pb n="6" facs="tcp:34514:4"/>Perſians, Greeks</hi> and <hi>Romans,</hi> as is before noted. And is it not to be Lamented, that any of the Church of <hi>England,</hi> her Magiſtrates, Bi<g ref="char:EOLhyphen"/>ſhops or Prieſts, ſhould be found ſo cruelly uſing any, that Lament the Pride and Wickedneſs of the People? And is it not a great In<g ref="char:EOLhyphen"/>dignity and Contempt offered to the Parliament's Addreſs, the King's Proclamation, and the Queen's Letter, againſt Profaneſs and Immo<g ref="char:EOLhyphen"/>rality, for any Magiſtrates to be found thus Acting againſt an Honeſt and Innocent Man, inſtead of putting the Laws in Execution againſt Profaneſs and Immorality, Curſing, Swearing, Whoring and Gaming? And how many hath this Mayor, the Juſtices, Biſhops or Prieſts, puniſhed for the Evils aforeſaid, let the Inhabitants of <hi>Cheſter,</hi> and their own Conſciences, Witneſs? Or doth it beſpeak, that they do herein faithfully diſcharge their
+<hi>Oaths,</hi> or that <hi>common Obligation</hi> that lies upon them? And do they uſe their ſincere Endeavours for a <hi>General Reformation?</hi> Or have they a due Regard to the
+<hi>Special Obli<g ref="char:EOLhyphen"/>gations</hi> that lies upon <hi>Magiſtrates,</hi> and <hi>Inferiour Officers,</hi> according to their <hi>Nature</hi> and <hi>Truſt,</hi> ſo <hi>Barbaroufly</hi> to uſe a Man, for Lament<g ref="char:EOLhyphen"/>ing of <hi>Pride,</hi> a Fore-runner of <hi>Deſtruction,</hi> and calling People to <hi>Repentance,</hi> a thing ſo greatly Needful, and truly
+<hi>Chriſtian?</hi> Yet this poor Man, for ſo doing, was, on the <hi>9th Inſtant,</hi> again Committed by <hi>Henry Lloyd</hi> aforeſaid, to the <hi>Northgate</hi> Priſon in
+<hi>Cheſter,</hi> where now he remains a Priſoner, for Exhorting the People to Repentance, and Amendment of Life.</p>
+            <p>A Copy of his <hi>Mittimus</hi> here follows.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To the Keeper of the <hi>North-gate,</hi> or his Deputy.</head>
+                  <opener>
+                     <dateline>City of <hi>Cheſter.</hi>
+                     </dateline>
+                  </opener>
+                  <p>I have ſent you <hi>Thomas Rudd,</hi> a Vagrant Perſon, that obey<g ref="char:EOLhyphen"/>eth not the Laws, and diſturbs at the Churches in the City of <hi>Cheſter:</hi> Therefore in his Majeſty's Name do you keep him ſafe in your Cuſtody, until he be delivered by Law.</p>
+                  <closer>
+                     <dateline>Given under my Hand and Seal <date>this
+9th day of <hi>July, 1700.</hi>
+                        </date>
+                     </dateline>
+                     <signed>Henry Lloyd.</signed> Vera Copia.</closer>
+               </body>
+            </floatingText>
+            <pb n="7" facs="tcp:34514:4"/>
+            <p>Oh! How is the King's Name abuſed, who approves not of ſuch Severity we believe? And yet ſuch was the Rage and Enmity of theſe Men at <hi>Cheſter,</hi> that they told, <hi>He deſerved to be Hanged, in<g ref="char:EOLhyphen"/>ſtead of Whipping,</hi> and for no other Fault, but what is aforeſaid, if that be one.</p>
+            <p>Oh! That theſe things may be truly conſidered and amended; for ſurely thoſe that are found in ſuch cruel Practices, are not led by God's Spirit; and therefore let all conſider whoſe Children they are, and what will be their Sentence and Portion hereafter, if they Repent not. The Lord therefore, if it be his will, give them <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> and <hi>forgive</hi> them their <hi>Sins</hi> for Chriſt his Son's ſake, and bring them truly to believe in God and Jeſus Chriſt, and to walk in his Light, that they may know his Blood to cleanſe them from all Unrighteouſneſs, and his Spirit to Sanctifie them, is the hearty deſire of the Sufferer that hath been ſo evilly intreated by them, that ſo they may eſcape the Puniſhment of Eternal Flames, and being turned into Hell, where the wicked and all that forget God ſhall be turned.</p>
+            <p>Again, Excellent is the Advice in the fore-cited Book, p. 27.</p>
+            <p>
+               <q>Let our learned Rabbies, the great Diſputers of the World, and that makes Profeſſion of Religion, but give little better account of it, than by expreſſing a <hi>Feirce</hi> and
+<hi>Vncharitable</hi> Heat againſt thoſe that Differ from them, in ſome things relating to Religion, but not <hi>Eſſential</hi> to it; wherein all Men, equally wife and good, have, I doubt, never yet been fully agreed: Think ſeriouſly with themſelves, whether they might not employ ſome ſhare, at leaſt, of their Parts and Zeal, to much better purpoſe, in furthering the Reformation of Mens Lives, and of the Manners of the Nation, by ſuppreſſing of
+<hi>Prophaneſs</hi> and <hi>Vice,</hi> than by raiſing and keep<g ref="char:EOLhyphen"/>ing up, with an Unchriſtian Temper; to the manifeſt Injury of the Chriſtian Religion, which is an Inſtitution of
+<hi>Love</hi> — All Religions being, I think, agreed, that <hi>bad Men</hi> are a ſcandal to the <hi>beſt Religion;</hi> and that they cannot, if they continue ſo, be ſaved in any.</q>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="8" facs="tcp:34514:5"/>
+            <head>POSTSCRIPT.</head>
+            <p>
+               <hi>NOTE,</hi> That the <hi>Warrant,</hi> for the whipping the Sufferer <hi>Thomas Rudd,</hi> was ſign'd by <hi>William Bennet</hi> aforeſaid Mayor, and <hi>Peter Newton</hi> Prieſt of that called <hi>St. Peters</hi> in <hi>Cheſter,</hi> and <hi>Richard Lee</hi> an Alehouſe<g ref="char:EOLhyphen"/>keeper Conſtable; and a Copy being earneſtly deſired ſeveral times, but could not be obtained.</p>
+            <p>And from his laſt Commitment he was diſcharged the <hi>22d</hi> of the <hi>5th Month,</hi> called <hi>July,</hi> 1700. So he was Priſoner in the City of <hi>Che<g ref="char:EOLhyphen"/>ſter</hi> about Eight Weeks, only for Exhorting the People to <hi>fear God,</hi> and <hi>depart from Evil;</hi> and calling them to <hi>Repentance</hi> and <hi>Amendment of Life;</hi> and Lamenting <hi>Pride.</hi> And yet this City which is ſaid to be concerned in the <hi>Reformation of Manners,</hi> and
+<hi>Suppreſſing of Vice and Im<g ref="char:EOLhyphen"/>morality,</hi> have thus ſeverely Puniſhed one, that in Body and Spirit labours and prays for the good of all Men; and that Holineſs and Righteouſneſs might abound in his Native Country, in and among all the Inhabitants thereof. And when he was Diſcharged, did again go, into the Streets of <hi>Cheſter,</hi> to Call to <hi>Repentance</hi> and Amend<g ref="char:EOLhyphen"/>ment of Life; and another time he went to the <hi>Cathedral,</hi> where the Dean came and puſhed him away, and called him <hi>Coxcomb.</hi> And therefore, as the aforeſaid Account begins with Quotations out of that Book, entitled, <hi>An Account of Reformation of Manners,</hi> ſign'd by 29 Lords, 9 Biſhops, and moſt of the Judges of the Land: I the Sufferer, ſhall end this <hi>Peſtſcript</hi> with a Quotation out of the ſaid Book, p. 157, 158.
+<q>Let us not then Fellow-Chriſtians, who would be accounted faithful Soldiers of <hi>Jeſus Chriſt,</hi>
+                  <note place="margin">
+                     <hi>Iſal.</hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.7.</note> be afraid of the Reproaches and Railings of ſuch profane and profligate Wretches; but let us rejoice in them, and in any other Perſecution, which we may undergo in ſo glorious a Cauſe. Let us conſider, that this Life is the proper ſea<g ref="char:EOLhyphen"/>ſon for Service and Suffering, and the next of Reward and Happi<g ref="char:EOLhyphen"/>neſs. Let the Lives and Deaths of the <hi>Martyrs</hi> and <hi>Confeſſors</hi> of Old be much in our Minds. Let us remember, that the beſt <hi>Chriſtians</hi> in all Ages have been derided and contemned; that our Bleſſed Saviour himſelf,<note place="margin">
+                     <hi>Iſal.</hi> 53.3.</note> the Captain of our Salvation, who was rejected and deſpiſed of Men, hath commanded us not to be afraid of them that <hi>kill the Body,</hi>
+                  <note place="margin">
+                     <hi>Iuke</hi> 12.5.</note> and after that have no more that they can do; but to fear, <hi>Him, that hath power to caſt into Hell;</hi> and hath ſaid, That <hi>whoſoever ſhall be aſhamed of him,</hi>
+                  <note place="margin">
+                     <hi>Mark.</hi> 8.28.</note> 
+                  <hi>and of his words; of him alſo ſhall he be aſhamed, when be cometh in the Glory of his Father,</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi>
+5.11.</note> 
+                  <hi>with the holy Angels:</hi> But that if we are Reviled and Perſecuted for his ſake, our Reward ſhall be great in Heaven.</q>
+            </p>
+            <closer>
+               <signed>Thomas Rudd.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
